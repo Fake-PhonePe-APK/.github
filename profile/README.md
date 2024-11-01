@@ -14,7 +14,7 @@ A fake APK is a counterfeit version of an official app, often designed to mimic 
 
 Using a fake PhonePe APK poses several serious risks:
 
-1. **Financial Loss:** The primary goal of fake APKs is usually to steal money from users. Once you enter your bank account details or UPI PIN on a fake app, scammers can access this information and initiate unauthorized transactions, causing you to lose money.
+1. **Financial Loss:** The primary goal of fake APKs is usually to steal money from users. Once you enter your bank account details or UPI PIN on a [fake app](https://github.com/Fake-PhonePe-APK), scammers can access this information and initiate unauthorized transactions, causing you to lose money.
 
 2. **Data Theft:** Fake apps often request unnecessary permissions, such as access to your contacts, photos, and messages. These permissions allow scammers to gather sensitive information that can be used for phishing or identity theft.
 
